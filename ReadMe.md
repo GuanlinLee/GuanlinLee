@@ -8,3 +8,20 @@ Ph.D. Candidate in S-Lab, Nanyang Technological University, Singapore.
 - 🦁: Deep Learning Security (Adversarial Robust; Model Extraction; Backdoor; Poison)
 - 🐶: Dota2 Player
 - 🕸️: Marvel Fan
+
+
+
+<summary>📈 Stats</summary>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuanlinLee&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuanlinLee&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuanlinLee&theme=dracula)
+
+
+
+<summary>🎶 Listening to:</summary>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d2w2trp6o7ywe5r75kbem4jiey&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31d2w2trp6o7ywe5r75kbem4jiey)
+
+
