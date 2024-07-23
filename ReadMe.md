@@ -22,6 +22,6 @@ Ph.D. Candidate in S-Lab, Nanyang Technological University, Singapore.
 
 <summary>🎶 Listening to:</summary>
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31d2w2trp6o7ywe5r75kbem4jiey&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31d2w2trp6o7ywe5r75kbem4jiey&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
+[![spotify-github-profile](spotify-github-profile.kittinanx.com/api/view.svg?uid=31d2w2trp6o7ywe5r75kbem4jiey&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31d2w2trp6o7ywe5r75kbem4jiey)
 
 
