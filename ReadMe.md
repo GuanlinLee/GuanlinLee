@@ -5,9 +5,12 @@
 Ph.D. Candidate in S-Lab, Nanyang Technological University, Singapore.
 
 - :orange_book: Pytorch/Tensorflow
-- 🦁: Deep Learning Security (Adversarial Robust; Model Extraction; Backdoor; Poison)
+- 🦁: Deep Learning Security (Adversarial Robust; LLM & VLM & Diffusion Models; Red-teaming)
 - 🐶: Dota2 Player
 - 🕸️: Marvel Fan
+- 🏎️: Ferrari Tifosi
+
+
 
 
 
