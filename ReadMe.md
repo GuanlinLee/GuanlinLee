@@ -11,6 +11,7 @@ Ph.D. Candidate in S-Lab, Nanyang Technological University, Singapore.
 - 🏎️: Ferrari Tifosi
 
 
+See the [album recommendations](https://github.com/GuanlinLee/MyAoTY) by myself so far.
 
 
 
