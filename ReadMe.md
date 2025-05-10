@@ -2,7 +2,7 @@
 
 
 
-Ph.D. Candidate in S-Lab, Nanyang Technological University, Singapore.
+I received my Ph.D. degree in S-Lab, Nanyang Technological University, Singapore.
 
 - :orange_book: Pytorch/Tensorflow
 - 🦁: Deep Learning Security (Adversarial Robust; LLM & VLM & Diffusion Models; Red-teaming)
