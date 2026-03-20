@@ -5,7 +5,7 @@
 I received my Ph.D. degree in S-Lab, Nanyang Technological University, Singapore.
 
 - :orange_book: Pytorch/Tensorflow
-- 🦁: Deep Learning Security (Adversarial Robust; LLM & VLM & Diffusion Models; Red-teaming)
+- 🦁: Deep Learning Security (Adversarial Robust; LLM & VLM & Diffusion Models; Agent; Red-teaming)
 - 🐶: Dota2 Player
 - 🕸️: Marvel Fan
 - 🏎️: Ferrari Tifosi
